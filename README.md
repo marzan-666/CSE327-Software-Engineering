@@ -1,1 +1,1 @@
-# CSE327-BLUE-A-social-networking-application
+# BLUE-A-social-networking-application
